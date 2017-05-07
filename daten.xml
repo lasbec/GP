@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stadt name="Paderborn">
+	<Bezirk name="Kernstadt">
+		<Standortbericht x="517189" y="87575" informant="Schmitt">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517186" y="87568" informant="Müller">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517086" y="87740" informant="Roth">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517137" y="87740" informant="Hermann">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517155" y="87543" informant="Schneider">
+			Nein
+		</Standortbericht>
+		<Standortbericht x="517159" y="87505" informant="Fischer">
+			Nein
+		</Standortbericht>
+		<Standortbericht x="517218" y="87587" informant="Weber">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517229" y="87469" informant="Becker">
+			Nein
+		</Standortbericht>
+		<Standortbericht x="517171" y="87502" informant="Schulz">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517127" y="87570" informant="Hoffmann">
+			Ja
+		</Standortbericht>			
+	</Bezirk>
+	<Bezirk name="Marienloh">
+		<Standortbericht x="517636" y="87830" informant="Wagner">
+			Nein
+		</Standortbericht>
+		<Standortbericht x="517654" y="87978" informant="Wagner">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517704" y="87852" informant="Richter">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517649" y="87800" informant="Koch">
+			Ja
+		</Standortbericht>
+		<Standortbericht x="517619" y="87857" informant="Klein">
+			Ja
+		</Standortbericht>
+	</Bezirk>
+</Stadt>
